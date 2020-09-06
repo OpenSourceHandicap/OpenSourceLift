@@ -1,6 +1,14 @@
 # OpenSourceLift
 
 
+avec ces fichiers, vous pouvez construire un monte charge pour votre maison / atelier / ..
+pour ouvrir le PDF 3D, vous devez utilisez Adobe Acrobat, je ne connais pas d'autre logiciel qui implemente le contenu 3D (dites moi sinon)
+
+.STEP peut etre ouvert avec eDrawings
+.skp peut etre ouvert avec Sketchup
+.ods peut etre ouvert avec LibreOffice
+
+
 with these files, you can build a lift for your home / workshop / ...
 
 
